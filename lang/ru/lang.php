@@ -62,7 +62,8 @@ return [
         'slug_placeholder' => 'new-category-slug',
         'posts' => 'Записи',
         'delete_confirm' => 'Вы действительно хотите удалить эту категорию?',
-        'return_to_categories' => 'Вернуться к списку категорий'
+        'return_to_categories' => 'Вернуться к списку категорий',
+        'reorder' => 'Изменение порядка категорий'
     ],
     'settings' => [
         'category_title' => 'Список категорий блога',
